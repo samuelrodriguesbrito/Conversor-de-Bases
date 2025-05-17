@@ -46,3 +46,8 @@ E para finalizar, essa imagem mostra o programa calculando decimal para binário
 
 O programa só foi testado em Windows 11, então não há garantia de funcionamento em outros sistemas operacionais, mas o teste é válido.
 - [Download](https://github.com/samuelrodriguesbrito/Conversor-de-Bases/releases/download/Python/conversor-bases.exe) - Conversor de Bases (v1.0)
+
+<p align="center">
+ <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+</p>
+
